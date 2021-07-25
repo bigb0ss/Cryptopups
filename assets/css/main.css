@@ -2941,3 +2941,16 @@ ol {
 .footer .copyright-area p a:hover {
   color: #3E80FF;
 }
+
+
+
+
+
+
+.img-fluid-logo{
+  height:auto;
+max-width:50%;
+}
+.img-fluid-logo-footer{
+  height:100%;  
+}
